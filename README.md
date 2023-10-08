@@ -1,4 +1,4 @@
-Skill Challenge: Programación básica en Java
+<h1>Skill Challenge: Programación básica en Java<h1>
 
 El reto consiste en implementar una aplicación de gestión de películas. Deberás crear las clases
 necesarias para representar una película y un gestor de películas que permita realizar operaciones
