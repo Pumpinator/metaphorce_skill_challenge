@@ -21,12 +21,12 @@ Requisitos:
           Crea una clase GestorPelicula que contenga una colección de películas (puedes
           utilizar una lista, por ejemplo) y que tenga los siguientes métodos:
           <ul>
-               + agregarPelicula(pelicula : Pelicula) : void
-               + eliminarPelicula(id : int) : void
-               + obtenerPeliculas() : List<Pelicula>
-               + obtenerPeliculasDisponibles() : List<Pelicula>
-               + obtenerPeliculasNoDisponibles() : List<Pelicula>
-               + disponibilizarPelicula(id : int)
+               <li>+ agregarPelicula(pelicula : Pelicula) : void</li>
+               <li>++ eliminarPelicula(id : int) : void</li>
+               <li>++ obtenerPeliculas() : List<Pelicula></li>
+               <li>++ obtenerPeliculasDisponibles() : List<Pelicula></li>
+               <li>++ obtenerPeliculasNoDisponibles() : List<Pelicula></li>
+               <li>++ disponibilizarPelicula(id : int)
           </ul>
      </li>
      <li>
