@@ -22,11 +22,11 @@ Requisitos:
           utilizar una lista, por ejemplo) y que tenga los siguientes métodos:
           <ul>
                <li>+ agregarPelicula(pelicula : Pelicula) : void</li>
-               <li>++ eliminarPelicula(id : int) : void</li>
-               <li>++ obtenerPeliculas() : List<Pelicula></li>
-               <li>++ obtenerPeliculasDisponibles() : List<Pelicula></li>
-               <li>++ obtenerPeliculasNoDisponibles() : List<Pelicula></li>
-               <li>++ disponibilizarPelicula(id : int)
+               <li>+ eliminarPelicula(id : int) : void</li>
+               <li>+ obtenerPeliculas() : List<Pelicula></li>
+               <li>+ obtenerPeliculasDisponibles() : List<Pelicula></li>
+               <li>+ obtenerPeliculasNoDisponibles() : List<Pelicula></li>
+               <li>+ disponibilizarPelicula(id : int)
           </ul>
      </li>
      <li>
